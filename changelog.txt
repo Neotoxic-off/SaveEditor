@@ -1,47 +1,44 @@
+Version: 1.0.0
++-------------------------------------+
+UI:
 
-/-------------------------------------\
-|          Version: 1.0.0             |
+- New themes
+- UI customisation
+- UI update
 +-------------------------------------+
-| UI:                                 |
-|                                     |
-| - New themes                        |
-| - UI customisation                  |
-| - UI update                         |
+USER:
+
+- Settings system
+- Auto update checker
+- Display changelog
+- Edit theme
+- Enable / remove sound
 +-------------------------------------+
-| USER:                               |
-|                                     |
-| - Settings system                   |
-| - Auto update checker               |
-| - Display changelog                 |
-| - Edit theme                        |
-| - Enable / remove sound             |
+TOOLS:
+
+- Perks level editable
+- Item amount editable
+- Offerings amount editable
+- Item amount random
+- Offerings amount random
+- PlayerUID editable
+- Edit all characters
+- Edit one by one
+- Edit level
+- Edit prestige
+- Edit only flashlight
+- Edit only medkit
+- Edit only medkit and flashlight
 +-------------------------------------+
-| TOOLS:                              |
-|                                     |
-| - Perks level editable              |
-| - Item amount editable              |
-| - Offerings amount editable         |
-| - Item amount random                |
-| - Offerings amount random           |
-| - PlayerUID editable                |
-|                                     |
-| - Edit all characters               |
-| - Edit one by one                   |
-| - Edit level                        |
-| - Edit prestige                     |
-| - Edit only flashlight              |
-| - Edit only medkit                  |
-| - Edit only medkit and flashlight   |
+PERFORMANCES:
+
+- Improve speed
+- Code optimisation
+- Savefile optimisation
 +-------------------------------------+
-| PERFORMANCES:                       |
-|                                     |
-| - Improve speed                     |
-| - Code optimisation                 |
-| - Savefile optimisation             |
-+-------------------------------------+
-| CRASH:                              |
-|                                     |
-| - Prevent crash                     |
-| - Fix crash due to duplication      |
-| - Fix crash due to 'Settings.json'  |
+CRASH:
+
+- Prevent crash
+- Fix crash due to duplication
+- Fix crash due to 'Settings.json'
 \-------------------------------------/
