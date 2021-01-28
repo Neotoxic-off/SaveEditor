@@ -11,4 +11,10 @@ MISSING:
 - Add missing addons (still missing)
 - Add missing items
 
++-------------------------------------+
+PERFORMANCES:
+
+- Increase speed
+- Update all the code
+
 \-------------------------------------/
