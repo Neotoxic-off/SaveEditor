@@ -1,44 +1,14 @@
-Version: 1.0.0
+Version: 1.1.0
 +-------------------------------------+
-UI:
+BUG:
 
-- New themes
-- UI customisation
-- UI update
+- Addons duplication
+- Characters counter
+
 +-------------------------------------+
-USER:
+MISSING:
 
-- Settings system
-- Auto update checker
-- Display changelog
-- Edit theme
-- Enable / remove sound
-+-------------------------------------+
-TOOLS:
+- Add missing addons (still missing)
+- Add missing items
 
-- Perks level editable
-- Item amount editable
-- Offerings amount editable
-- Item amount random
-- Offerings amount random
-- PlayerUID editable
-- Edit all characters
-- Edit one by one
-- Edit level
-- Edit prestige
-- Edit only flashlight
-- Edit only medkit
-- Edit only medkit and flashlight
-+-------------------------------------+
-PERFORMANCES:
-
-- Improve speed
-- Code optimisation
-- Savefile optimisation
-+-------------------------------------+
-CRASH:
-
-- Prevent crash
-- Fix crash due to duplication
-- Fix crash due to 'Settings.json'
 \-------------------------------------/
