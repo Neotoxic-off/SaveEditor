@@ -1,20 +1,19 @@
-Version: 1.1.0
+Version: 1.2.0
+
 +-------------------------------------+
 BUG:
 
-- Addons duplication
-- Characters counter
+- Fix characters stack when load
 
 +-------------------------------------+
-MISSING:
+UI:
 
-- Add missing addons (still missing)
-- Add missing items
+- Display message when optimize
 
 +-------------------------------------+
-PERFORMANCES:
+ITEMS:
 
-- Increase speed
-- Update all the code
+- Change medkit type in "medkit mod"
+- Add all missing map offerings
 
 \-------------------------------------/
