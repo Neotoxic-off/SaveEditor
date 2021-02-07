@@ -1,19 +1,19 @@
-Version: 1.2.0
+Version: 2.1.0
 
 +-------------------------------------+
 BUG:
 
-- Fix characters stack when load
+- Fix killers addons
+- Fix survivors optimisation
 
 +-------------------------------------+
 UI:
 
-- Display message when optimize
+- Add new editor
 
 +-------------------------------------+
-ITEMS:
+PERFORMANCES:
 
-- Change medkit type in "medkit mod"
-- Add all missing map offerings
+- Easy update
 
 \-------------------------------------/
